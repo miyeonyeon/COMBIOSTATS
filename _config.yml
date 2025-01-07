@@ -1,9 +1,9 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
-title: Jekyll Chapterbook
-longtitle: Jekyll Chapterbook Theme
-author: Jason Grimes
-email: jason@grimesit.com
+title: COMBIOSTAT
+longtitle: Computational Biostatistics
+author: 
+email: 
 description: >
   A Jekyll theme based on GitBook with support for chapters and parts.
 
@@ -39,6 +39,8 @@ bookcrumbs:
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
+- label: Jekyll Chapterbook Theme
+  url: /index.html
 
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
@@ -51,6 +53,8 @@ sidebar_nav_bottom:
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
 bottom_nav:
+- label: Home
+  url: /index.html
 - label: Book
   url: /book.html
 - label: GitHub
@@ -108,6 +112,7 @@ regenerate: true
 
 plugins:
 #  - jekyll-feed
+  - jekyll-readme-index
 #  - jemoji
 
 collections:
