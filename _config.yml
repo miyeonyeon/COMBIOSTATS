@@ -51,8 +51,6 @@ sidebar_nav_bottom:
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
 bottom_nav:
-- label: Home
-  url: /index.html
 - label: Book
   url: /book.html
 - label: GitHub
@@ -110,7 +108,6 @@ regenerate: true
 
 plugins:
 #  - jekyll-feed
-  - jekyll-readme-index
 #  - jemoji
 
 collections:
