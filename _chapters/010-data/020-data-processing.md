@@ -1,6 +1,6 @@
 ---
-title: Helper includes
-slug: helpers
+title: Data processing
+slug: data-processing
 abstract: Helper methods, of a sort, using Jekyll includes.
 ---
 
