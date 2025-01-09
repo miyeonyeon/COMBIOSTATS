@@ -9,7 +9,10 @@ TCGA
 
 Gene Info
 - [UCSC Genome Browser](https://genome.ucsc.edu/)
-- [HUGO Gene Nomenclature Committee](www.genenames.org)
+- [HUGO Gene Nomenclature Committee](https://www.genenames.org/)
+
+Sample Info
+- [TCGA Barcode](https://docs.gdc.cancer.gov/Encyclopedia/pages/TCGA_Barcode/)
 
 ---
 ```
