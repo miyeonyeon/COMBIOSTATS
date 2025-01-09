@@ -1,6 +1,6 @@
 ---
-title: Genomic datasets
-slug: genomic-datasets
+title: Transcriptomic Datasets
+slug: transcriptomic-datasets
 abstract: A guide to quickly setting up your site with this theme.
 ---
 
