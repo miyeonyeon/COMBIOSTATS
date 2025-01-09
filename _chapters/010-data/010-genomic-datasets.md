@@ -4,9 +4,12 @@ slug: genomic-datasets
 abstract: A guide to quickly setting up your site with this theme.
 ---
 
-This is an example chapter page.
+TCGA
+- [GDC Portal using TCGAbiolinks R Package](https://www.youtube.com/watch?v=UWXv9dUpxNE&ab_channel=Bioinformagician)
 
-[Learn more about getting started with this theme.]({{ site.baseurl }}/index.html#genomic-datasets)
+Gene Info
+- [UCSC Genome Browser](https://genome.ucsc.edu/)
+- [HUGO Gene Nomenclature Committee](www.genenames.org)
 
 ---
 ```
